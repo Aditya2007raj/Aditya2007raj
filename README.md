@@ -1,18 +1,14 @@
 <div align="center">
 
-# Hey, I'm Ankush Poonia 👋
+# Hey, I'm Aditya Raj Singh Shekhawat  👋
 
-### Building toward AI/ML Engineering — one project at a time.
+### Building toward Agentic AI Engineering — one project at a time.
 
-**B.Tech AI/ML Engineering · 2nd Year · Arya College of Engineering, Jaipur**
+**B.Tech Computer Science Engineering · 3rd Year · Arya College of Engineering, Jaipur**
 
-I'm a second-year AI/ML student focused on building real, deployable projects before graduation. My work sits at the intersection of Python backends, LLM integration, and NLP — currently building toward my flagship project, **NeuraLog**, a privacy-first personal AI memory system.
+I'm a third-year CS-AI student focused on building real, deployable projects before graduation. My work sits at the intersection of Python backends, LLM integration, and NLP.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ankush%20Poonia-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ankush-poonia007/)
-[![Credly](https://img.shields.io/badge/Credly-Certifications-FF6B00?style=for-the-badge&logo=credly&logoColor=white)](https://www.credly.com/users/ankush-poonia007)
-[![LeetCode](https://img.shields.io/badge/LeetCode-ankush--poonia07-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/ankush-poonia07/)
-[![GeeksForGeeks](https://img.shields.io/badge/GFG-ankushpoonia007-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/profile/ankushpoonia007)
-[![HackerRank](https://img.shields.io/badge/HackerRank-pooniaankush007-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/pooniaankush007)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Aditya%20Raj-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aditya-raj-7a506a333/)
 
 </div>
 
