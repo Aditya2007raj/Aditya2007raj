@@ -1,125 +1,161 @@
 <div align="center">
 
-# Hey, I'm Aditya Raj Singh Shekhawat  👋
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=1000&color=4FC3F7&center=true&vCenter=true&width=500&lines=Welcome+to+my+GitHub+%F0%9F%91%BE" alt="Welcome" />
 
-### Building toward Agentic AI Engineering — one project at a time.
+# Hey, I'm Aditya Raj Singh Shekhawat 👋
 
-**B.Tech Computer Science Engineering · 3rd Year · Arya College of Engineering, Jaipur**
+**Project Builder · Community Contributor · Future AI Engineer**
 
-I'm a third-year CS-AI student focused on building real, deployable projects before graduation. My work sits at the intersection of Python backends, LLM integration, and NLP.
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Aditya%20Raj-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aditya-raj-7a506a333/)
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=22&pause=1000&color=00B4D8&center=true&vCenter=true&width=900&lines=CS-AI+Student+%7C+Arya+College+of+Engineering;Building+Games+%26+AI+Projects+One+at+a+Time;Agentic+AI+%7C+NLP+%7C+Generative+AI;Open-Source+Builder+%7C+Community+Contributor;Dreaming+Global+%F0%9F%8C%8F+%E2%86%92+Building+Local+%F0%9F%9B%A0%EF%B8%8F" alt="Typing SVG" />
 
 </div>
 
 ---
 
-## 🚧 What I'm Building
+## 🧠 About Me
 
-| Project | Status | Description |
-|---|---|---|
-| **NeuraLog** | 🔬 Planning | Privacy-first AI memory and context system — my flagship portfolio project |
-| **NeuraChat NLP** | ✅ Deployed | Full-stack AI chatbot with custom NLP routing layer and Gemini 2.5 Flash |
-| **HiringOrbit** | ✅ Built | Location-aware AI agent — finds colleges, companies, communities near any city |
+🎓 **B.Tech — Computer Science & AI (Specialization)**
+🏫 **Arya College of Engineering, Jaipur**
+🌏 **Goal:** Land a global internship & eventually build AI systems in Japan
 
----
+I'm a CS-AI undergraduate who believes the best way to learn is to **build real things** — games, AI bots, agents, and open-source tools. My GitHub will be a living portfolio of projects across **Agentic AI, NLP, Generative AI, and Game AI**.
 
-## 🔭 Featured Projects
+Currently in build mode:
+- 🤖 Assembling **Jarvis** — my personal AI agent project
+- 📚 Going deep on **Advanced Python & AI concepts**
+- 🌐 Contributing to **open-source AI ecosystems**
+- 🎯 Targeting a **global internship** as my next milestone
 
-### [NeuraChat NLP](https://github.com/ankush-poonia007/neurachat-nlp) — *Live on Render*
-A full-stack AI chatbot built from scratch — not just an API wrapper. Before any token reaches Gemini, a custom NLP layer detects intent, topic, and conversation depth, then builds a structured prompt with full session history injected. Flask backend, SQLite, 10-page frontend with a shared design system, auth, membership gating, and GSAP animations.
-
-`Python` `Flask` `SQLite` `Gemini 2.5 Flash` `Vanilla JS` `Tailwind` `NLP`
-
----
-
-### [HiringOrbit](https://github.com/ankush-poonia007/hiringorbit) — *Google Developer Bootcamp*
-A location-aware intelligence agent. You type a city and a query — it finds real nearby places (engineering colleges, tech companies, ML communities) using Google Maps and generates contextual AI recommendations via Gemini. Built during a Google Developer Bootcamp.
-
-`Python` `Gemini AI` `Google Maps API` `Agentic AI`
+> *"Dream big. Build bigger."*
 
 ---
 
-### NeuraLog *(In Development)*
-My flagship project — a personal context, memory, and intelligence assistant. Designed to be privacy-first with local-first architecture. Architectural planning complete; active development starting post-semester.
+## 🛠️ Tech Stack
 
-`Python` `LLMs` `RAG` `Privacy-First Architecture`
+### 💻 Languages
 
----
+![Python](https://img.shields.io/badge/Python-0A1628?style=for-the-badge&logo=python&logoColor=4FC3F7)
+![C++](https://img.shields.io/badge/C++-0A1628?style=for-the-badge&logo=cplusplus&logoColor=4FC3F7)
 
-## 🛠 Skills & Tools
+### 🤖 AI & LLM Platforms
 
-**Languages**
+![OpenAI](https://img.shields.io/badge/OpenAI-0A1628?style=for-the-badge&logo=openai&logoColor=4FC3F7)
+![Gemini](https://img.shields.io/badge/Google%20Gemini-0A1628?style=for-the-badge&logo=google&logoColor=4FC3F7)
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-003B57?style=flat-square&logo=sqlite&logoColor=white)
+### 🧩 Skills & Domains
 
-**Frameworks & Tools**
+![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-0D2137?style=for-the-badge&color=0D2137&labelColor=0D2137&logoColor=4FC3F7)
+![Agentic AI](https://img.shields.io/badge/Agentic%20AI-0D2137?style=for-the-badge&color=0D2137&labelColor=0D2137&logoColor=4FC3F7)
+![NLP](https://img.shields.io/badge/NLP-0D2137?style=for-the-badge&color=0D2137&labelColor=0D2137&logoColor=4FC3F7)
+![Generative AI](https://img.shields.io/badge/Generative%20AI-0D2137?style=for-the-badge&color=0D2137&labelColor=0D2137&logoColor=4FC3F7)
 
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-![Gemini API](https://img.shields.io/badge/Gemini%20API-4285F4?style=flat-square&logo=google&logoColor=white)
-![Google Maps API](https://img.shields.io/badge/Google%20Maps%20API-34A853?style=flat-square&logo=googlemaps&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+### ⚙️ Tools
 
-**AI/ML Focus Areas**
-
-`NLP` `Prompt Engineering` `LLM Integration` `Agentic AI` `RAG (learning)`
+![Git](https://img.shields.io/badge/Git-0A1628?style=for-the-badge&logo=git&logoColor=F05032)
+![GitHub](https://img.shields.io/badge/GitHub-0A1628?style=for-the-badge&logo=github&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-0A1628?style=for-the-badge&logo=figma&logoColor=F24E1E)
+![Canva](https://img.shields.io/badge/Canva-0A1628?style=for-the-badge&logo=canva&logoColor=00C4CC)
 
 ---
 
-## 🏆 Achievements & Certifications
+## 🔭 Focus Areas
 
-| Achievement | Detail |
+| Area | What I'm Building Toward |
 |---|---|
-| 🎓 **Anthropic Academy** | Claude 101 + AI Fluency Framework — 10/10 both |
-| 🏅 **Infosys Springboard 7.0** | 16 courses · ~120 hours · AI track (Deep Learning, NLP, Computer Vision, GenAI) |
-| 🥈 **NPTEL Elite + Silver** | Programming in Java · 82% score |
-| 📊 **Deloitte Data Analytics** | Job Simulation on Forage — Tableau dashboard + Excel pay equity analysis |
-| 🧠 **GFG 60-Day DSA Challenge** | Active — covering arrays, trees, graphs, DP, and advanced algorithms |
-| 🎯 **HackNexus 2.0** | Lead organizer — 24hr hackathon · 50 teams · 200 participants |
+| 🧠 **Agentic AI** | Autonomous agents that reason, plan, and act |
+| 🗣️ **NLP** | Language models that understand context and nuance |
+| 🎭 **Multimodal AI** | Systems that see, hear, and process across modalities |
+| 🎮 **Game AI** | Intelligent NPCs and procedural game systems |
+| 🌐 **Open-Source** | Contributing to community AI tools and frameworks |
 
 ---
 
-## 📊 GitHub Stats
+## 🚧 What's Cooking
+
+```
+🤖  Jarvis          → Personal AI agent (in progress)
+🎮  Game AI Project → Coming soon
+🌐  Open-Source     → Active contributor (growing)
+📚  DSA Challenges  → Planned for future roadmap
+```
+
+> My GitHub will be full of **projects, games, chatbots, and AI agents** — stay tuned.
+
+---
+
+## 🏆 Leadership & Community
+
+| 🏅 Event | Details |
+|---|---|
+| 🧠 **Hack Nexus** | Lead Organizer · 24hr Hackathon · 21 Teams · 105 Participants |
+| 🚀 **Hack Nexus 2.0** | Lead Organizer · 24hr Hackathon · 50 Teams · 200 Participants |
+
+Organized two large-scale hackathons from scratch — logistics, outreach, team management, and execution. Passionate about **building communities** around tech and AI.
+
+---
+
+## 📊 GitHub Activity
 
 <div align="center">
 
-![Ankush's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ankush-poonia007&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
+<img height="175em" src="https://github-readme-stats.vercel.app/api?username=Aditya2007raj&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
 
-![GitHub Streak](https://streak-stats.demolab.com?user=ankush-poonia007&theme=tokyonight&hide_border=true)
+<img height="175em" src="https://github-readme-streak-stats.herokuapp.com/?user=Aditya2007raj&theme=tokyonight&hide_border=true"/>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ankush-poonia007&layout=compact&theme=tokyonight&hide_border=true)
+<img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aditya2007raj&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+> 🗓️ **Committing daily** — consistency is the strategy.
+
+---
+
+## 📍 Current Learning Roadmap
+
+- [x] Python fundamentals → intermediate
+- [ ] 🔄 **Advanced Python** — decorators, async, design patterns
+- [ ] 🔄 **AI concepts** — LLM internals, agent frameworks, RAG
+- [ ] ⏳ **DSA challenges** — planned for future phase
+- [ ] ⏳ **Open-source contributions** — ramping up
+
+---
+
+## 🌏 Future Plans
+
+- 🌐 Secure a **global internship** (Japan is the dream)
+- 🤖 Become a stable, skilled **AI Engineer**
+- 🛠️ Contribute meaningfully to **AI frameworks & open-source**
+- 🎮 Merge **AI + Game Development** into real projects
+- 🚀 Ship products that actually solve real problems
+
+---
+
+## 🌐 Connect With Me
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Aditya%20Raj-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/aditya-raj-7a506a333)
+[![Instagram](https://img.shields.io/badge/Instagram-code.withaadi-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/code.withaadi/)
+[![Gmail](https://img.shields.io/badge/Gmail-aadiraj2007singh%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aadiraj2007singh@gmail.com)
 
 </div>
 
 ---
 
-## 📌 Current Focus
+## ⚡ The Fun Side
 
-- 🔨 Completing NeuraChat NLP bug fixes and polish (`fixes/ui-and-session` branch)
-- 📚 Finishing Anthropic Academy (13 courses total)
-- 🧩 DSA — GFG 60-Day Challenge, active daily
-- 🏗 NeuraLog — architecture finalizing, build starts post-semester
-- 🎓 5th semester begins August 2025
-
----
-
-## 🤝 Let's Connect
-
-I'm always open to talking about AI/ML projects, collaborations, and learning opportunities.
-
-**📧 Reach me via [LinkedIn](https://www.linkedin.com/in/ankush-poonia007/)**
+- 🍥 Anime-fueled creativity — yes, unironically
+- 🎮 AI + Game Development is my happy place
+- 🧩 Obsessed with understanding how intelligent systems *actually* work
+- 🔥 Building discipline through daily consistency
+- 🌏 Japan isn't just a plan — it's the direction
 
 ---
 
 <div align="center">
 
-*Building industry-level AI projects before graduation.*
+### *"Dream big. Build bigger."*
 
-![Profile Views](https://komarev.com/ghpvc/?username=ankush-poonia007&color=22d3ee&style=flat-square)
+![Profile Views](https://komarev.com/ghpvc/?username=Aditya2007raj&label=Profile%20Views&color=0e75b6&style=for-the-badge)
 
 </div>
